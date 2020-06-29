@@ -1,4 +1,4 @@
-# Getting Started with Text Data Analysis in Python
+# How to Analyse & Clean Text Data in Python
 
 This is a beginner's tutorial on how to analyse text data in Python, using a small and simple data set of dummy tweets. 
 
